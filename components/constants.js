@@ -1,0 +1,11 @@
+export const APP_THEME = {
+	BUTTON: {
+		BACKGROUND_COLOR: '#4052B5',
+		BORDER_COLOR: '#374bb6',
+	},
+	HEADER: {
+		BACKGROUND_COLOR: '#4052B5',
+		ICON_COLOR: '#FFFFFF',
+		ICON_UNDERLAY_COLOR: 'rgba(255,255,255, 0.2)',
+	},
+};
